@@ -1,0 +1,18 @@
+.star{
+    font-size: 50px;
+    cursor: pointer;
+}
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+.nonFilled{
+    color: #ccc;
+}
+.filled{
+    color:#000
+}
+span {
+    content: "\2605";
+}

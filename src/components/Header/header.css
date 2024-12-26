@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    max-width: 80%;
+    margin: auto;
+}
+
+.header-right {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    /* width: 30%; */
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.bell-icon {
+    height: 25px;
+    width: 30px;
+}
+
+.button {
+    background-color: #270337;
+    border: none;
+    padding: 8px 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.profile-icon {
+    height: 25px;
+    width: 30px
+}
+
+.rigth-space {
+    margin-right: 30px;
+}

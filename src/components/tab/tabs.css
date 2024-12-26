@@ -1,0 +1,21 @@
+.tabs {
+    width: 80%;
+    margin: auto;
+}
+
+.tabs-heading {
+    text-transform: capitalize;
+}
+
+.css-1usuzwp-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #FE0042 !important;
+}
+
+.css-1usuzwp-MuiButtonBase-root-MuiTab-root {
+    font-weight: bold !important;
+    text-transform: capitalize !important;
+}
+
+#simple-tab-4 {
+    margin-left: auto;
+}

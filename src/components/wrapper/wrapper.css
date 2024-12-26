@@ -1,0 +1,16 @@
+.wrapper {
+    background: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 22%;
+    padding: 30px;
+    margin-right: 20px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.course-status {
+    font-size: 12px;
+    margin-top: 5px;
+    font-weight: 500;
+}
